@@ -7,7 +7,7 @@
 
 <script setup>
 import TabBar from '@/component/tab-bar/index.vue'
-
+console.log('新功能已经完成')
 </script>
 
 <style scoped>
