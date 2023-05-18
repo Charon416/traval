@@ -8,7 +8,6 @@
 <script setup>
 import TabBar from '@/component/tab-bar/index.vue'
 console.log('222222');
-
 </script>
 
 <style scoped>
